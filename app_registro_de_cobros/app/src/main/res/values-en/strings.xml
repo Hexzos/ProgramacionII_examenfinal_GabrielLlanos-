@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App charge register</string>
+    <string name="btn_text_calcular_registro" >Register meter</string>
+    <string name="no_registros">There aren\'t any registers available. Add one to begin</string>
+    <string name="medidor_luz">LIGHT</string>
+    <string name="medidor_gas">GAS</string>
+    <string name="medidor_agua">WATER</string>
+    <string name="tipo_medidor">Meter of:</string>
+    <string name="medidor_input_text">Meter</string>
+    <string name="fecha_input_text">Date (YYYY-MM-DD)</string>
+    <string name="error_medidor_invalido">Enter a valid meter (only numbers, at least one digit)</string>
+    <string name="error_fecha_invalida">Enter a valid date (YYYY-MM-DD)</string>
+    <string name="confirmar_eliminar_titulo">Confirm</string>
+    <string name="confirmar_eliminar_mensaje">Do you want to delete the register?</string>
+    <string name="eliminar">Delete</string>
+    <string name="cancelar">Cancel</string>
+</resources>

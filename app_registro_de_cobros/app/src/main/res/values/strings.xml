@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App registro de cobros</string>
+
+
+    <string name="btn_text_calcular_registro" >Registrar medición</string>
+    <string name="no_registros">No hay registros disponibles. Ingrese uno para comenzar</string>
+    <string name="medidor_luz">LUZ</string>
+    <string name="medidor_gas">GAS</string>
+    <string name="medidor_agua">AGUA</string>
+    <string name="tipo_medidor">Medidor de:</string>
+    <string name="medidor_input_text">Medidor</string>
+    <string name="fecha_input_text">Fecha (AÑO-MES-DÍA)</string>
+    <string name="error_medidor_invalido">Ingrese un medidor válido (solo números, al menos 1 dígito)</string>
+    <string name="error_fecha_invalida">Ingrese una fecha válida (AÑO-MES-DÍA)</string>
+    <string name="confirmar_eliminar_titulo">Confirmación</string>
+    <string name="confirmar_eliminar_mensaje">¿Desea eliminar el registro?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>
